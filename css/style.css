@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+    ._afdq{
+        border-left: 1px solid #dee3e9;
+        margin-left: 16px;
+        padding-left: 16px;
+    }
+}
